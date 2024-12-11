@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "JMrVojGFFrjkfTegnEVPgbn68VQ5WRti62Ywi4wyXqLRr/XvA7HmvQMEmTsZR2r1zLRX8gub+YQFGDeik/hZMg==",
+  "dgSpecHash": "PInsfhUPv4gFuxImpIIF9oUU6fL/ztBDmCq537pETbLIbDAvuB8bmLnUbuTNbHB73s2nHB04XHrlcykF+9NCjg==",
   "success": true,
   "projectFilePath": "C:\\Users\\uac19.MOHEGOV\\Desktop\\AngularProject\\GitNT\\NT\\NT\\NearestTeachers.csproj",
   "expectedPackageFiles": [
@@ -36,6 +36,7 @@
     "C:\\Users\\uac19.MOHEGOV\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\uac19.MOHEGOV\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\uac19.MOHEGOV\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\uac19.MOHEGOV\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\uac19.MOHEGOV\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\uac19.MOHEGOV\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "C:\\Users\\uac19.MOHEGOV\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",

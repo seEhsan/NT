@@ -96,3 +96,4 @@ C:\Users\uac19.MOHEGOV\Desktop\AngularProject\GitNT\NT\NT\obj\Debug\net6.0\refin
 C:\Users\uac19.MOHEGOV\Desktop\AngularProject\GitNT\NT\NT\obj\Debug\net6.0\NearestTeachers.pdb
 C:\Users\uac19.MOHEGOV\Desktop\AngularProject\GitNT\NT\NT\obj\Debug\net6.0\NearestTeachers.genruntimeconfig.cache
 C:\Users\uac19.MOHEGOV\Desktop\AngularProject\GitNT\NT\NT\obj\Debug\net6.0\ref\NearestTeachers.dll
+C:\Users\uac19.MOHEGOV\Desktop\AngularProject\GitNT\NT\NT\bin\Debug\net6.0\Newtonsoft.Json.dll
